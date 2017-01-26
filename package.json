@@ -17,7 +17,7 @@
     "xstream": "6 - 9"
   },
   "devDependencies": {
-    "@cycle/base": "4.1",
+    "@cycle/base": "4.2",
     "@cycle/isolate": "1.4",
     "ava": "^0.16.0",
     "typescript": "2.0.9",
